@@ -57,7 +57,7 @@ export default {
 
       const data = {
         token:
-          "xoxp-532347758208-533283580517-1107527135251-f99bcee91777a9dd642561dbbe0139a1",
+          "xoxp-532347758208-533283580517-1115378241252-d39f5e68132049a4918b95ffd5e3f9e1",
         channel: "hqvue",
         text: `${email} has requested admin access to HQ. Please go to Netlify to invite them.`
       };
